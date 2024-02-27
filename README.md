@@ -32,3 +32,6 @@ An example request: `GET /users?username=john&password=1234password HTTP/1.1`
 `PUT /profiles/<USER_ID>?<PROFILE_ATTRIBUTE>=<ATTRIBUTE>`
 - Erase user profile info  
 `POST /profiles/<USER_ID>`
+
+## UML Sequence Diagram
+![UML Sequence Diagram](uml.png)
